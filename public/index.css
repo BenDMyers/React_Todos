@@ -1,0 +1,28 @@
+.add-todo-input {
+	font-family: 'Roboto';
+	font-weight: bolder;
+	width: 100%;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-left: 0px;
+	border: none;
+	border-bottom: 1px solid darkgray;
+	background: transparent;
+}
+
+.add-todo-label {
+	font-family: 'Roboto';
+	font-weight: bolder;
+	text-transform: uppercase;
+	font-size: small;
+	vertical-align: top;
+	padding: 0px;
+}
+
+.add-todo-submit {
+	font-family: 'Roboto';
+	font-weight: bold;
+	color: rgb(55, 58, 60) !important;
+	text-transform: uppercase;
+	font-size: small;
+}
